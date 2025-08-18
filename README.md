@@ -1,2 +1,2 @@
 # Belajar-kolaborasi
-sangat menyenangkan
+sangat menyenangkan belajar git melalui dicoding
